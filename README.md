@@ -1,0 +1,2 @@
+# Sistema-Reserva
+Criação de um sistema para otimizar o processo de reservas  em  empresas ou negócios próprios. A aplicação possuirá duas interfaces (2 tipos de login), uma a nível cliente e outra a nível prestador, onde o usuário cliente vai poder procurar por serviços, escolher um horário e reservar qualquer serviço que esteja disponível e o usuário prestador vai poder criar sua página e passar ao sistema as datas e horários de disponibilidade para reservas.
